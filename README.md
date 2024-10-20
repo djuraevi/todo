@@ -24,3 +24,4 @@
 
 1. Клонируйте репозиторий:
    ```bash
+   https://github.com/djuraevi/todo.git
